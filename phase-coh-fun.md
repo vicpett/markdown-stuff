@@ -21,5 +21,5 @@ where the $(k, \ell)$ subscript indicates the $\ell$-th path incident on the $k$
 ![](figures/movie-20250616-0840.gif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUzNDAxMDFdfQ==
+eyJoaXN0b3J5IjpbMTQ1MzUyNzExM119
 -->
