@@ -20,6 +20,10 @@ where the $(k, \ell)$ subscript indicates the $\ell$-th path incident on the $k$
 
 ![](https://github.com/vicpett/markdown-stuff/blob/main/figures/movie-20250616-0840.gif)
 
+.png:
+
+![](https://github.com/vicpett/markdown-stuff/blob/main/figures/9.png)
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEwNzczNTY0ODBdfQ==
 -->
