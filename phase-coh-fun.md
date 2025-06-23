@@ -18,13 +18,13 @@ where the $(k, \ell)$ subscript indicates the $\ell$-th path incident on the $k$
 
 .gif:
 
-![Hej](https://github.com/vicpett/markdown-stuff/blob/main/figures/movie-20250616-0840.gif)
+![Hej](https://github.com/vicpett/markdown-stuff/figures/movie-20250616-0840.gif)
 
 .png:
 
-![Hejd](https://github.com/vicpett/markdown-stuff/blob/main/figures/9.png)
+![Hej](https://github.com/vicpett/markdown-stuff/figures/9.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE2OTQxMjY2LC01MDYzOTUwNiwtMTA3Nz
-M1NjQ4MF19
+eyJoaXN0b3J5IjpbLTcwNjkwOTI5Niw1MTY5NDEyNjYsLTUwNj
+M5NTA2LC0xMDc3MzU2NDgwXX0=
 -->
