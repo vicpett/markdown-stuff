@@ -25,5 +25,5 @@ where the $(k, \ell)$ subscript indicates the $\ell$-th path incident on the $k$
 ![](https://github.com/vicpett/markdown-stuff/blob/main/figures/9.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzczNTY0ODBdfQ==
+eyJoaXN0b3J5IjpbLTUwNjM5NTA2LC0xMDc3MzU2NDgwXX0=
 -->
