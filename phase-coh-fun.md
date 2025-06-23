@@ -17,9 +17,8 @@ $$
 where the $(k, \ell)$ subscript indicates the $\ell$-th path incident on the $k$-th subarray, $\gamma_{k, \ell}$ is the corresponding complex channel gain, $\bm{\psi}_{k, \ell}$ is the angles-of-departure from the basestation, $\bm{\theta}_{k, \ell}$ is the angles-of-arrival at the receiving sub-array and $\tau_{k, \ell}$ is the delay. The vector $\mathbf{c}_{k, \ell} = \mathbf{c}(\bm{\psi}_{k, \ell}, \bm{\theta}_{k, \ell}, \tau_{k, \ell}) $ is a tall steering vector and $\mathbf{z}_k$ is AWGN for modeling thermal noise.
 
 .gif:
-
-![](figures/movie-20250616-0840.gif)
+![](https://github.com/vicpett/markdown-stuff/blob/main/figures/movie-20250616-0840.gif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MzUyNzExM119
+eyJoaXN0b3J5IjpbODY3NDgyMzIyXX0=
 -->
